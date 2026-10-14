@@ -1,0 +1,4 @@
+interface:
+  display_name: "AvaliaIdeia"
+  short_description: "Pente fino de viabilidade e riscos de negócios"
+  default_prompt: "Use $avaliaideia para avaliar esta ideia de negócio, investigar sua viabilidade e recomendar o próximo passo com evidências, custos e testes."
